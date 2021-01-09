@@ -8,7 +8,8 @@ class StaticPagesController < ApplicationController
   def about
   end
 
-  def contact; end
+  def contact
+  end
 end
 
 #arrange for title to change based on change
